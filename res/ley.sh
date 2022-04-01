@@ -1,0 +1,21 @@
+#bash
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 5
+firefox https://www.youtube.com/c/agungmujiono
+sleep 10
