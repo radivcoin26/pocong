@@ -8,3 +8,4 @@ wget https://raw.githubusercontent.com/radivcoin26/pocong/main/res/ley.sh
 chmod +x ley.sh
 wget https://raw.githubusercontent.com/radivcoin26/pocong/main/res/iam.sh 
 chmod +x iam.sh
+
