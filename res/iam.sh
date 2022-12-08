@@ -1,3 +1,4 @@
 #bash
-chromium-browser --new-window --no-sandbox https://www.youtube.com/watch?v=4LyHj-Es5_I&list=UUaATAGr88R_8a5SXa0Qm4hA?autoplay=1
-chromium-browser --new-window --no-sandbox https://www.youtube.com/watch?v=kBKQltZLSZo&list=UUiaC2jmRppozuqp1-UfDFrw?autoplay=1
+chromium-browser --new-window --no-sandbox https://teknosimple.com/GwRuTKT0
+chromium-browser --new-window --no-sandbox https://chrome.google.com/webstore/detail/random-user-agent-switche/einpaelgookohagofgnnkcfjbkkgepnp
+chromium-browser --new-window --no-sandbox https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp
